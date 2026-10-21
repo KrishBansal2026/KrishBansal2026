@@ -1,59 +1,108 @@
-# Hey, I'm Krish Bansal 👋
+<!-- PREMIUM GITHUB PROFILE — KRISH BANSAL -->
 
-### Computer Science Student | Aspiring Software Developer
+<div align="center">
 
-I'm a Computer Science student at **Lovely Professional University (LPU)**, interested in software development, web technologies, and building practical digital products.
+# KRISH BANSAL
 
-I enjoy learning by building projects, exploring new technologies, and turning ideas into working applications.
+### Computer Science Student · Aspiring Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+projects%2C+learning+by+doing.;Exploring+web+development.;Turning+ideas+into+working+applications." alt="Animated introduction" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-KrishBansal2026-161B22?style=for-the-badge&logo=github)](https://github.com/KrishBansal2026)
+[![University](https://img.shields.io/badge/University-LPU-2563EB?style=for-the-badge)](https://www.lpu.in/)
+[![Profile Views](https://komarev.com/ghpvc/?username=KrishBansal2026&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS)](https://github.com/KrishBansal2026)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-- 🎓 Studying Computer Science at Lovely Professional University
+I'm **Krish Bansal**, a Computer Science student at **Lovely Professional University (LPU)**.
+
+I'm interested in software development, web technologies, and creating practical applications. I enjoy learning through hands-on projects, experimenting with tools, and improving my development skills one step at a time.
+
+- 🎓 Studying Computer Science at LPU
 - 💻 Exploring web development and software engineering
-- 🚀 Building practical projects to strengthen my technical skills
-- 🌱 Learning, experimenting, and improving with every project
-- 📌 Currently showcasing **CampusBuddy**
+- 🚀 Building and documenting personal projects
+- 🌱 Continuously learning and improving
+- 🎯 Focused on writing better code and building useful products
 
 ---
 
-## 🚀 Featured Project
+## `$ tech-stack`
 
-### CampusBuddy
+### Languages & Development
 
-A campus-focused web project built to explore practical application development.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,firebase&theme=dark" alt="JavaScript, HTML, CSS, React, Vite and Firebase" />
+</p>
 
-- **Live Demo:** [Visit CampusBuddy](https://campusbuddykrish.netlify.app/)
-- **Source Code:** [View Repository](https://github.com/KrishBansal2026/CampusBuddy.git)
+### Tools
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
+</p>
 
-## 🛠️ Technologies
-
-- **Programming:** JavaScript
-- **Web Development:** React, Vite
-- **Backend Services:** Firebase
-
-*Technologies listed reflect the current CampusBuddy project; this section can grow as I build more projects.*
+*These icons represent technologies used in or relevant to my current project work. My skills will expand as I gain more experience.*
 
 ---
 
-## 🎯 Current Goals
+## `$ featured-projects`
 
-- Strengthen my programming fundamentals
-- Build and document meaningful projects
-- Improve my problem-solving skills
-- Learn software development best practices
+### 🎓 CampusBuddy
+
+A campus-focused web application built with modern web technologies.
+
+| | |
+|---|---|
+| **Stack** | JavaScript · React · Vite · Firebase |
+| **Status** | Personal/student project |
+| **Demo** | [Launch CampusBuddy ↗](https://campusbuddykrish.netlify.app/) |
+| **Source** | [Explore the repository ↗](https://github.com/KrishBansal2026/CampusBuddy) |
+
+**What I'm developing through this project:**
+- Practical frontend development experience
+- Integration with backend services
+- Application configuration and deployment
+- Project documentation and maintenance
 
 ---
 
-## 🤝 Connect With Me
+## `$ github-analytics`
 
-- **GitHub:** [@KrishBansal2026](https://github.com/KrishBansal2026)
-- **LinkedIn:** 
-- **Email:** krishbansal994@gmail.com
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrishBansal2026&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishBansal2026&layout=compact&theme=github_dark&hide_border=true" alt="Most used public repository languages" />
+
+<img src="https://streak-stats.demolab.com?user=KrishBansal2026&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>Statistics depend on public GitHub activity and third-party services. Language cards reflect repository composition, not necessarily proficiency. Some cards may occasionally be unavailable.</sub>
 
 ---
 
-*Building consistently. Learning continuously. Improving with every commit.*
+## `$ current-goals`
+
+- [ ] Strengthen programming fundamentals
+- [ ] Build more substantial software projects
+- [ ] Improve problem-solving skills
+- [ ] Learn software development best practices
+- [ ] Document projects clearly and consistently
+
+---
+
+## `$ connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KrishBansal2026)
+
+**Computer Science Student · Lovely Professional University**
+
+*Learning continuously. Building consistently. Improving with every commit.*
+
+</div>
